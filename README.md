@@ -1,2 +1,3 @@
 # Bukalapak-Scraper
-Bukalapak Scraper Bot
+Bukalapak Scraper Bot  
+Get Item Prices and Links
